@@ -2,7 +2,7 @@
 
 Exercise 2: Project Layout
 
-Business Objectives (Forretningsmål) - 
+Business Objectives (Forretningsmål) - Make the capstone project more visable
 
 Project Deliveries (Prosjektleveranser) -
 
