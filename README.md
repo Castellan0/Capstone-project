@@ -1,36 +1,19 @@
-# Capstone-project
+Exercise 1: Characterizing a software project
 
-Exercise 2: Project Layout
+Basing on the lecture slide, characterize the project described in Capstone Project - Description
 
-Business Objectives (Forretningsmål) - Make the capstone project more visable
+Exercise 2: Stakeholder analysis
 
-Project Deliveries (Prosjektleveranser) -
+For Capstone Project - Description,
 
-Project Executions (Prosjektgjennomføringer) -
+List all potential stakeholders
+Classify them based on their interest, influence, and impact on the project.
+Anticipate any potential conflicts between stakeholder groups and propose strategies for resolution.
+Exercise 3: Project management areas
 
-Constraints (Begrensninger) -
+What aspects will you need to plan if you are responsible for implementing this project?
+Exercise 4: SWOT analysis
 
-Assumptions (Antagelser) -
+The exercise involves each team member contributing to identifying the team's Strengths, Weaknesses, Opportunities, and Threats. It's an excellent way for team members to understand their collective capabilities and areas that need improvement. This exercise fosters open communication and strategic planning.
 
-
-
-
-
-
-
-
-
-
-Exercise 3: Project success criteria
-
-Q: Does this list reflect needs from all relevant stakeholders?
-A: 
-
-Q: Are these "wishes" clear enough to guide the management and development of the project?
-A:
-
-Q: What can be the success criteria for this project?
-A:
-
-Q:What can be a timeframe for a team of three people including you?
-A: 
+Use the template here to complete your SWOT analysis: Google Doc SWOT template
