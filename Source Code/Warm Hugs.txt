@@ -1,0 +1,597 @@
+<div class="div">
+  <div class="div-2">
+    <img
+      loading="lazy"
+      srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/db26c062197c36a53a3280b3f12732bd8f42582fc9ea99971ccad9e168575d16?apiKey=ddb72bb3770049338c09e0c487103c15&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/db26c062197c36a53a3280b3f12732bd8f42582fc9ea99971ccad9e168575d16?apiKey=ddb72bb3770049338c09e0c487103c15&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/db26c062197c36a53a3280b3f12732bd8f42582fc9ea99971ccad9e168575d16?apiKey=ddb72bb3770049338c09e0c487103c15&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/db26c062197c36a53a3280b3f12732bd8f42582fc9ea99971ccad9e168575d16?apiKey=ddb72bb3770049338c09e0c487103c15&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/db26c062197c36a53a3280b3f12732bd8f42582fc9ea99971ccad9e168575d16?apiKey=ddb72bb3770049338c09e0c487103c15&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/db26c062197c36a53a3280b3f12732bd8f42582fc9ea99971ccad9e168575d16?apiKey=ddb72bb3770049338c09e0c487103c15&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/db26c062197c36a53a3280b3f12732bd8f42582fc9ea99971ccad9e168575d16?apiKey=ddb72bb3770049338c09e0c487103c15&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/db26c062197c36a53a3280b3f12732bd8f42582fc9ea99971ccad9e168575d16?apiKey=ddb72bb3770049338c09e0c487103c15&"
+      class="img"
+    />
+    <div class="div-3">
+      <div class="div-4">Warm</div>
+      <img
+        loading="lazy"
+        srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/da1621bcaf50cd5070ca80d70aaad67e597fd490e271447db310b0207cc00217?apiKey=ddb72bb3770049338c09e0c487103c15&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/da1621bcaf50cd5070ca80d70aaad67e597fd490e271447db310b0207cc00217?apiKey=ddb72bb3770049338c09e0c487103c15&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/da1621bcaf50cd5070ca80d70aaad67e597fd490e271447db310b0207cc00217?apiKey=ddb72bb3770049338c09e0c487103c15&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/da1621bcaf50cd5070ca80d70aaad67e597fd490e271447db310b0207cc00217?apiKey=ddb72bb3770049338c09e0c487103c15&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/da1621bcaf50cd5070ca80d70aaad67e597fd490e271447db310b0207cc00217?apiKey=ddb72bb3770049338c09e0c487103c15&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/da1621bcaf50cd5070ca80d70aaad67e597fd490e271447db310b0207cc00217?apiKey=ddb72bb3770049338c09e0c487103c15&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/da1621bcaf50cd5070ca80d70aaad67e597fd490e271447db310b0207cc00217?apiKey=ddb72bb3770049338c09e0c487103c15&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/da1621bcaf50cd5070ca80d70aaad67e597fd490e271447db310b0207cc00217?apiKey=ddb72bb3770049338c09e0c487103c15&"
+        class="img-2"
+      />
+      <div class="div-5">Hugs</div>
+    </div>
+    <div class="div-6">
+      <div class="div-7">
+        <div class="div-8">Home</div>
+        <div class="div-9">Menu</div>
+        <div class="div-10">Abous Us</div>
+        <div class="div-11">Gallery</div>
+        <div class="div-12">Contact</div>
+      </div>
+    </div>
+    <div class="div-13">
+      <div class="div-14">
+        “From the embrace of warm hugs to the comfort of warm cups, find solace
+        in every sip”
+      </div>
+      <div class="div-15">Our Favorites</div>
+    </div>
+    <div class="div-16">
+      <div class="div-17">
+        <div class="column"><div class="div-18"></div></div>
+        <div class="column-2"><div class="div-19"></div></div>
+        <div class="column-3">
+          <div class="div-20">
+            <img
+              loading="lazy"
+              srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/0e9ec01643266716a43cbaab4c82b1199e8aeaf30c153ad4fce12f50a9076859?apiKey=ddb72bb3770049338c09e0c487103c15&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/0e9ec01643266716a43cbaab4c82b1199e8aeaf30c153ad4fce12f50a9076859?apiKey=ddb72bb3770049338c09e0c487103c15&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/0e9ec01643266716a43cbaab4c82b1199e8aeaf30c153ad4fce12f50a9076859?apiKey=ddb72bb3770049338c09e0c487103c15&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/0e9ec01643266716a43cbaab4c82b1199e8aeaf30c153ad4fce12f50a9076859?apiKey=ddb72bb3770049338c09e0c487103c15&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/0e9ec01643266716a43cbaab4c82b1199e8aeaf30c153ad4fce12f50a9076859?apiKey=ddb72bb3770049338c09e0c487103c15&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/0e9ec01643266716a43cbaab4c82b1199e8aeaf30c153ad4fce12f50a9076859?apiKey=ddb72bb3770049338c09e0c487103c15&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/0e9ec01643266716a43cbaab4c82b1199e8aeaf30c153ad4fce12f50a9076859?apiKey=ddb72bb3770049338c09e0c487103c15&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/0e9ec01643266716a43cbaab4c82b1199e8aeaf30c153ad4fce12f50a9076859?apiKey=ddb72bb3770049338c09e0c487103c15&"
+              class="img-3"
+            />
+          </div>
+        </div>
+        <div class="column-4"><div class="div-21"></div></div>
+      </div>
+    </div>
+  </div>
+  <div class="div-22">
+    <div class="div-23">
+      <div class="div-24">
+        <div class="div-25">
+          <div class="column-5">
+            <img
+              loading="lazy"
+              srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/0094794b05250dd5b89f805b596ba90ecd62faefac896e5aad2b38312e6f6dae?apiKey=ddb72bb3770049338c09e0c487103c15&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/0094794b05250dd5b89f805b596ba90ecd62faefac896e5aad2b38312e6f6dae?apiKey=ddb72bb3770049338c09e0c487103c15&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/0094794b05250dd5b89f805b596ba90ecd62faefac896e5aad2b38312e6f6dae?apiKey=ddb72bb3770049338c09e0c487103c15&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/0094794b05250dd5b89f805b596ba90ecd62faefac896e5aad2b38312e6f6dae?apiKey=ddb72bb3770049338c09e0c487103c15&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/0094794b05250dd5b89f805b596ba90ecd62faefac896e5aad2b38312e6f6dae?apiKey=ddb72bb3770049338c09e0c487103c15&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/0094794b05250dd5b89f805b596ba90ecd62faefac896e5aad2b38312e6f6dae?apiKey=ddb72bb3770049338c09e0c487103c15&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/0094794b05250dd5b89f805b596ba90ecd62faefac896e5aad2b38312e6f6dae?apiKey=ddb72bb3770049338c09e0c487103c15&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/0094794b05250dd5b89f805b596ba90ecd62faefac896e5aad2b38312e6f6dae?apiKey=ddb72bb3770049338c09e0c487103c15&"
+              class="img-4"
+            />
+          </div>
+          <div class="column-6">
+            <div class="div-26">
+              <img
+                loading="lazy"
+                srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/bb216f2b4ef5172b57b0012d5d6d479c6655361fafc53e40f9b7efb850c6658f?apiKey=ddb72bb3770049338c09e0c487103c15&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/bb216f2b4ef5172b57b0012d5d6d479c6655361fafc53e40f9b7efb850c6658f?apiKey=ddb72bb3770049338c09e0c487103c15&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/bb216f2b4ef5172b57b0012d5d6d479c6655361fafc53e40f9b7efb850c6658f?apiKey=ddb72bb3770049338c09e0c487103c15&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/bb216f2b4ef5172b57b0012d5d6d479c6655361fafc53e40f9b7efb850c6658f?apiKey=ddb72bb3770049338c09e0c487103c15&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/bb216f2b4ef5172b57b0012d5d6d479c6655361fafc53e40f9b7efb850c6658f?apiKey=ddb72bb3770049338c09e0c487103c15&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/bb216f2b4ef5172b57b0012d5d6d479c6655361fafc53e40f9b7efb850c6658f?apiKey=ddb72bb3770049338c09e0c487103c15&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/bb216f2b4ef5172b57b0012d5d6d479c6655361fafc53e40f9b7efb850c6658f?apiKey=ddb72bb3770049338c09e0c487103c15&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/bb216f2b4ef5172b57b0012d5d6d479c6655361fafc53e40f9b7efb850c6658f?apiKey=ddb72bb3770049338c09e0c487103c15&"
+                class="img-5"
+              />
+              <div class="div-27">Explore more</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <img
+        loading="lazy"
+        srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/025e6c9b8c51395eb1c52bfcd00c573b2452f986660c138b1af346e461daec27?apiKey=ddb72bb3770049338c09e0c487103c15&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/025e6c9b8c51395eb1c52bfcd00c573b2452f986660c138b1af346e461daec27?apiKey=ddb72bb3770049338c09e0c487103c15&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/025e6c9b8c51395eb1c52bfcd00c573b2452f986660c138b1af346e461daec27?apiKey=ddb72bb3770049338c09e0c487103c15&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/025e6c9b8c51395eb1c52bfcd00c573b2452f986660c138b1af346e461daec27?apiKey=ddb72bb3770049338c09e0c487103c15&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/025e6c9b8c51395eb1c52bfcd00c573b2452f986660c138b1af346e461daec27?apiKey=ddb72bb3770049338c09e0c487103c15&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/025e6c9b8c51395eb1c52bfcd00c573b2452f986660c138b1af346e461daec27?apiKey=ddb72bb3770049338c09e0c487103c15&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/025e6c9b8c51395eb1c52bfcd00c573b2452f986660c138b1af346e461daec27?apiKey=ddb72bb3770049338c09e0c487103c15&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/025e6c9b8c51395eb1c52bfcd00c573b2452f986660c138b1af346e461daec27?apiKey=ddb72bb3770049338c09e0c487103c15&"
+        class="img-6"
+      />
+    </div>
+    <div class="div-28">Lorem ipsum</div>
+    <div class="div-29">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquet
+      metus eu sapien lobortis sollicitudin ac vel lorem. In rutrum nisl et
+      condimentum suscipit. Donec ligula erat, pharetra eget est sit amet,
+      finibus faucibus libero. Maecenas semper porta tellus id scelerisque.
+      <br />
+      Nulla commodo ac diam ac volutpat. In orci mi, sagittis convallis ex eu,
+      posuere consequat est.
+      <br />
+      <br />
+      Quisque convallis dolor non felis scelerisque bibendum. Aliquam erat
+      volutpat. Suspendisse vel dignissim est. Mauris vel odio magna.
+      <br />
+      Ut dapibus ultrices enim, vitae auctor ligula. Cras ultricies nulla sit
+      amet feugiat luctus.
+    </div>
+  </div>
+  <div class="div-30">
+    <div class="div-31">
+      <div class="div-32">Phone number : +47 64 67 25 49</div>
+      <div class="div-33">E-mail : Warmhugscafe@business.com</div>
+      <div class="div-34">Adress : Hugs street 36, England 3746</div>
+    </div>
+  </div>
+</div>
+<style>
+  .div {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+  }
+  .div-2 {
+    disply: flex;
+    flex-direction: column;
+    filter: blur(2px);
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    min-height: 644px;
+    width: 100%;
+  }
+  @media (max-width: 991px) {
+    .div-2 {
+      max-width: 100%;
+    }
+  }
+  .img {
+    position: absolute;
+    inset: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+  .div-3 {
+    position: relative;
+    align-self: center;
+    display: flex;
+    padding-right: 20px;
+    align-items: end;
+    gap: 1px;
+    font-size: 40px;
+    color: #b98b69;
+    font-weight: 400;
+    white-space: nowrap;
+    text-align: center;
+    line-height: 100%;
+  }
+  @media (max-width: 991px) {
+    .div-3 {
+      white-space: initial;
+    }
+  }
+  .div-4 {
+    font-family: Abhaya Libre, sans-serif;
+    margin-top: 62px;
+  }
+  @media (max-width: 991px) {
+    .div-4 {
+      margin-top: 40px;
+    }
+  }
+  .img-2 {
+    aspect-ratio: 0.85;
+    object-fit: auto;
+    object-position: center;
+    width: 87px;
+    align-self: stretch;
+  }
+  .div-5 {
+    font-family: Abhaya Libre, sans-serif;
+    margin-top: 54px;
+  }
+  @media (max-width: 991px) {
+    .div-5 {
+      margin-top: 40px;
+    }
+  }
+  .div-6 {
+    position: relative;
+    background-color: rgba(84, 49, 15, 0.5);
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    font-size: 26px;
+    color: #fffbf0;
+    font-weight: 400;
+    text-align: center;
+    line-height: 100%;
+    padding: 36px 60px;
+  }
+  @media (max-width: 991px) {
+    .div-6 {
+      max-width: 100%;
+      padding: 0 20px;
+    }
+  }
+  .div-7 {
+    display: flex;
+    width: 842px;
+    max-width: 100%;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  @media (max-width: 991px) {
+    .div-7 {
+      flex-wrap: wrap;
+    }
+  }
+  .div-8 {
+    font-family: Abhaya Libre, sans-serif;
+  }
+  .div-9 {
+    font-family: Abhaya Libre, sans-serif;
+  }
+  .div-10 {
+    font-family: Abhaya Libre, sans-serif;
+  }
+  .div-11 {
+    font-family: Abhaya Libre, sans-serif;
+  }
+  .div-12 {
+    font-family: Abhaya Libre, sans-serif;
+  }
+  .div-13 {
+    position: relative;
+    display: flex;
+    width: 723px;
+    max-width: 100%;
+    flex-direction: column;
+    font-weight: 400;
+    margin: 75px 0 0 63px;
+  }
+  @media (max-width: 991px) {
+    .div-13 {
+      margin-top: 40px;
+    }
+  }
+  .div-14 {
+    color: #fffbf0;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font: 40px/40px Abhaya Libre, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-14 {
+      max-width: 100%;
+    }
+  }
+  .div-15 {
+    color: #fff;
+    text-align: center;
+    align-self: end;
+    margin-top: 55px;
+    white-space: nowrap;
+    font: 24px Abhaya Libre, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-15 {
+      margin-top: 40px;
+      white-space: initial;
+    }
+  }
+  .div-16 {
+    position: relative;
+    align-self: center;
+    z-index: 10;
+    width: 100%;
+    max-width: 1198px;
+    margin: 17px 0 -122px;
+    padding: 0 20px;
+  }
+  @media (max-width: 991px) {
+    .div-16 {
+      max-width: 100%;
+      margin-bottom: 10px;
+    }
+  }
+  .div-17 {
+    gap: 20px;
+    display: flex;
+  }
+  @media (max-width: 991px) {
+    .div-17 {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0px;
+    }
+  }
+  .column {
+    display: flex;
+    flex-direction: column;
+    line-height: normal;
+    width: 25%;
+    margin-left: 0px;
+  }
+  @media (max-width: 991px) {
+    .column {
+      width: 100%;
+    }
+  }
+  .div-18 {
+    border-radius: 27px;
+    background-color: rgba(84, 49, 15, 0.63);
+    position: relative;
+    width: 100%;
+    height: 250px;
+    flex: 1;
+  }
+  @media (max-width: 991px) {
+    .div-18 {
+      margin-top: 40px;
+    }
+  }
+  .column-2 {
+    display: flex;
+    flex-direction: column;
+    line-height: normal;
+    width: 25%;
+    margin-left: 20px;
+  }
+  @media (max-width: 991px) {
+    .column-2 {
+      width: 100%;
+    }
+  }
+  .div-19 {
+    border-radius: 27px;
+    background-color: rgba(84, 49, 15, 0.63);
+    position: relative;
+    width: 100%;
+    height: 250px;
+    flex: 1;
+  }
+  @media (max-width: 991px) {
+    .div-19 {
+      margin-top: 40px;
+    }
+  }
+  .column-3 {
+    display: flex;
+    flex-direction: column;
+    line-height: normal;
+    width: 25%;
+    margin-left: 20px;
+  }
+  @media (max-width: 991px) {
+    .column-3 {
+      width: 100%;
+    }
+  }
+  .div-20 {
+    border-radius: 27px;
+    background-color: rgba(84, 49, 15, 0.63);
+    position: relative;
+    display: flex;
+    padding-bottom: 18px;
+    flex-direction: column;
+    align-items: start;
+    aspect-ratio: 1;
+    width: 100%;
+  }
+  @media (max-width: 991px) {
+    .div-20 {
+      margin-top: 40px;
+    }
+  }
+  .img-3 {
+    aspect-ratio: 1.06;
+    object-fit: auto;
+    object-position: center;
+    width: 100%;
+    z-index: 10;
+    margin-top: -17px;
+  }
+  .column-4 {
+    display: flex;
+    flex-direction: column;
+    line-height: normal;
+    width: 25%;
+    margin-left: 20px;
+  }
+  @media (max-width: 991px) {
+    .column-4 {
+      width: 100%;
+    }
+  }
+  .div-21 {
+    border-radius: 27px;
+    background-color: rgba(84, 49, 15, 0.63);
+    position: relative;
+    width: 100%;
+    height: 250px;
+    flex: 1;
+  }
+  @media (max-width: 991px) {
+    .div-21 {
+      margin-top: 40px;
+    }
+  }
+  .div-22 {
+    background-color: rgba(185, 139, 105, 0.42);
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    padding: 0 79px 20px 37px;
+  }
+  @media (max-width: 991px) {
+    .div-22 {
+      max-width: 100%;
+      padding: 0 20px;
+    }
+  }
+  .div-23 {
+    align-self: center;
+    z-index: 10;
+    display: flex;
+    margin-top: -113px;
+    width: 100%;
+    max-width: 1200px;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  @media (max-width: 991px) {
+    .div-23 {
+      max-width: 100%;
+      flex-wrap: wrap;
+    }
+  }
+  .div-24 {
+  }
+  @media (max-width: 991px) {
+    .div-24 {
+      max-width: 100%;
+    }
+  }
+  .div-25 {
+    gap: 20px;
+    display: flex;
+  }
+  @media (max-width: 991px) {
+    .div-25 {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0px;
+    }
+  }
+  .column-5 {
+    display: flex;
+    flex-direction: column;
+    line-height: normal;
+    width: 45%;
+    margin-left: 0px;
+  }
+  @media (max-width: 991px) {
+    .column-5 {
+      width: 100%;
+    }
+  }
+  .img-4 {
+    aspect-ratio: 1.2;
+    object-fit: auto;
+    object-position: center;
+    width: 100%;
+  }
+  @media (max-width: 991px) {
+    .img-4 {
+      margin-top: 25px;
+    }
+  }
+  .column-6 {
+    display: flex;
+    flex-direction: column;
+    line-height: normal;
+    width: 55%;
+    margin-left: 20px;
+  }
+  @media (max-width: 991px) {
+    .column-6 {
+      width: 100%;
+    }
+  }
+  .div-26 {
+    display: flex;
+    margin-top: 13px;
+    flex-grow: 1;
+    flex-direction: column;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 400;
+    white-space: nowrap;
+    text-align: center;
+  }
+  @media (max-width: 991px) {
+    .div-26 {
+      margin-top: 38px;
+      white-space: initial;
+    }
+  }
+  .img-5 {
+    aspect-ratio: 1.15;
+    object-fit: auto;
+    object-position: center;
+    width: 263px;
+    max-width: 100%;
+  }
+  .div-27 {
+    font-family: Abhaya Libre, sans-serif;
+    background-color: rgba(50, 28, 7, 0.5);
+    align-self: end;
+    margin-top: 13px;
+    justify-content: center;
+    padding: 7px 5px;
+  }
+  @media (max-width: 991px) {
+    .div-27 {
+      white-space: initial;
+    }
+  }
+  .img-6 {
+    aspect-ratio: 1.2;
+    object-fit: auto;
+    object-position: center;
+    width: 293px;
+    max-width: 100%;
+    margin: auto 0;
+  }
+  .div-28 {
+    color: #000;
+    text-align: center;
+    font: 400 27px/100% Abhaya Libre, -apple-system, Roboto, Helvetica,
+      sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-28 {
+      max-width: 100%;
+    }
+  }
+  .div-29 {
+    color: #000;
+    text-align: center;
+    margin-top: 11px;
+    font: 400 20px/20px Abhaya Libre, -apple-system, Roboto, Helvetica,
+      sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-29 {
+      max-width: 100%;
+    }
+  }
+  .div-30 {
+    background-color: #b98b69;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+    color: #fff;
+    font-weight: 400;
+    text-align: center;
+    line-height: 100%;
+    padding: 14px 60px;
+  }
+  @media (max-width: 991px) {
+    .div-30 {
+      max-width: 100%;
+      padding: 0 20px;
+    }
+  }
+  .div-31 {
+    display: flex;
+    width: 100%;
+    max-width: 1107px;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  @media (max-width: 991px) {
+    .div-31 {
+      max-width: 100%;
+      flex-wrap: wrap;
+    }
+  }
+  .div-32 {
+    font-family: Abhaya Libre, sans-serif;
+    flex-grow: 1;
+    flex-basis: auto;
+  }
+  .div-33 {
+    font-family: Abhaya Libre, sans-serif;
+    flex-grow: 1;
+    flex-basis: auto;
+  }
+  .div-34 {
+    font-family: Abhaya Libre, sans-serif;
+    flex-grow: 1;
+    flex-basis: auto;
+  }
+</style>
