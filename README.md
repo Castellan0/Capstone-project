@@ -1,6 +1,8 @@
 In these modules you learned about User-centered Design, Agile methodology, Risk Management, and Communication Management. You will deliver the following items in your Github repository:
 
 
+
+
 The first prototype for your project (following example in Module 4 > Exercise 1)
 
 The second prototype for your project (following example in Module 4 > Exercise 2,3)
